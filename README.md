@@ -22,3 +22,5 @@ This analysis is focused exclusively on the Kingdom of Saudi Arabia, using publi
 ## 👩‍💻 Author
 Rand Nasser Alkhamis - Abrar Aldosari 
 Statistics Graduate - King Saud University (2024)
+
+📎 [Click here to view the project poster (PDF)](poster.pdf)
